@@ -1,3 +1,10 @@
+-----ATTENTION,
+-----THIS PROJECT HAS BEEN SCRAPPED SO IT WONT WORK 
+-----you may tweak the code to make it work.
+
+
+
+
 local runDummyScript = function(f,scri)
 local oldenv = getfenv(f)
 local newenv = setmetatable({}, {
